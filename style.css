@@ -16,7 +16,7 @@
 }
 body{
     background-color: var(--Very-dark-blue);
-    margin: 20% auto;
+    margin: 10% auto;
 }
 .container{
     max-width: 60em;
